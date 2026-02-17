@@ -1,0 +1,2 @@
+# c-programming-SYED
+BASIC C PROGRAMMING PRACTISE 
