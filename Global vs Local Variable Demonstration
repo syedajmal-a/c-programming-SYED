@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+// Global variable
+int G;
+
+int main() {
+
+    // Local variable
+    int L;
+
+    // Read input
+    scanf("%d %d", &G, &L);
+
+    // Print values
+    printf("Global: %d\n", G);
+    printf("Local: %d\n", L);
+
+    return 0;
+}
